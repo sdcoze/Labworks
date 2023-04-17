@@ -11,7 +11,6 @@
 
 Рис. 2 – Фрагмент екрану з рішення завдання 2.2.2 "Перейти до прихованого каталогу .git, використовуючи команду pushd з метою
 швидкого повернення до попереднього каталогу у майбутньому."
-![mintty_4n36BzdCka](https://user-images.githubusercontent.com/44908390/227003925-0d60972c-62a1-4b95-b3a9-5a16b80c8985.png)
 
 ![mintty_dkfxGpWXSj](https://user-images.githubusercontent.com/44908390/226976249-b7c9886f-212d-42a0-81d8-602d5ecefb27.png)
 
