@@ -8,8 +8,6 @@
 прихованих файлів."
 
 ![mintty_xud6x5OF1z](https://user-images.githubusercontent.com/44908390/226975847-412f8541-d083-4098-97b2-cbe356ef6f63.png)
-![mintty_GaXlxcWNDs](https://user-images.githubusercontent.com/44908390/226988063-2bcbf20c-13db-4994-bedc-614bfcd3d191.png)![mintty_GaXlxcWNDs](https://user-images.githubusercontent.com/44908390/226988091-02f7c153-70ef-40ac-84e7-7eed9dbb2674.png)
-
 
 Рис. 2 – Фрагмент екрану з рішення завдання 2.2.2 "Перейти до прихованого каталогу .git, використовуючи команду pushd з метою
 швидкого повернення до попереднього каталогу у майбутньому."
