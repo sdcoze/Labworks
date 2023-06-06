@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <unistd.h>
+
+int main (void)
+{
+    char
+    pid_t pid = fork();
+    if (pid != 0)
+	fprintf(stdout,"I`m Paren-Process PID=%d\n",getpid());
+    else
+	fprintf(stdout,"I`m Child-Process PID=%d\n",getpid());
+
+    return 0;
+}
+
+
